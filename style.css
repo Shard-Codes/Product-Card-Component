@@ -125,7 +125,7 @@ body {
   justify-content: center;
   align-items: center;
   gap: .75rem;
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 700;
   padding: 1rem 2rem;
   border-radius: 10px;
@@ -133,8 +133,8 @@ body {
 }
 
 .product__button img{
-  width: 20px;
-  height: 20px;
+  width: 18px;
+  height: 18px;
 }
 
 .product__button:hover{
