@@ -84,6 +84,7 @@ body {
   align-items: center;
   justify-content: flex-start;
   gap: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 .product__price{
@@ -91,7 +92,6 @@ body {
   font-size: 2rem;
   font-weight: 700;
   color: var(--dark-cyan);
-  margin-bottom: 1.5rem;
 }
 
 .crossed__price{
