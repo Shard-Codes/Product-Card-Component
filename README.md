@@ -6,4 +6,4 @@ I currently know Html, and Css and I am currently learning javascript.
 
 # About This Project
 
-The project I made here today is a simple product card design. I used Html, and Css to make this project and honestly this was fun to make and i hope you enjoy making as well.
+The project I made here today is a simple product card design. I used Html, and Css to make this project and honestly this was fun to make and i hope you enjoy making it as well.
