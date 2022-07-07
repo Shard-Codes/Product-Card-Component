@@ -148,7 +148,9 @@ body {
   text-align: center;
 }
 
-@media (max-width: 550px) {
+/*========== Media queries ==========*/
+/* 544px wide */
+@media (max-width: 34em) {
   .product-card{
     grid-template-columns: 1fr;
   }
