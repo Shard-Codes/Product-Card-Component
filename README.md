@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor solution link](https://www.frontendmentor.io/solutions/simple-qr-code-component-design-html-css-OX1F04q8V_)
+- Solution URL: [Frontend mentor solution link](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-card-page-made-with-html-and-css-along-with-css-grid-rVSMchPZc6)
 - Live Site URL: [Live Site URL](https://product-card-page.netlify.app/)
 
 ### Built with
