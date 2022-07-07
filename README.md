@@ -1,9 +1,37 @@
-# Who I Am
-My name is ethan james, I am 14 years old and I am a junior programmer.
+# Frontend Mentor - Product preview card component solution
 
-# The Languages I Know
-I currently know Html, and Css and I am currently learning javascript.
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-# About This Project
+## Table of contents
 
-The project I made here today is a simple product card design. I used Html, and Css to make this project and honestly this was fun to make and i hope you enjoy making it as well.
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+ - [Author](#author)
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
+
+### Screenshot
+
+![](./images/webpage.jpg)
+
+### Links
+
+- Solution URL: [Frontend mentor solution link](https://www.frontendmentor.io/solutions/simple-qr-code-component-design-html-css-OX1F04q8V_)
+- Live Site URL: [Live Site URL](https://product-card-page.netlify.app/)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS Grid
+
+## Author
+
+- Frontend Mentor - [@Shard-Codes](https://www.frontendmentor.io/profile/Shard-Codes)
